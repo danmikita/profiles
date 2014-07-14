@@ -5,4 +5,4 @@ PS1="[\u@\h \w]\[\033[0;32m\]\$(parse_git_branch_and_add_brackets) \[\033[0m\] \
 
 # enabling git completion
 source ~/profiles/git/git-completion.bash
-source ~/git-flow-completion.bash
+source ~/profiles/git/git-flow-completion.bash
