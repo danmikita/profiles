@@ -1,4 +1,0 @@
-for file in ~/profiles/*_profile
-do
-  source $file
-done

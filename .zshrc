@@ -53,7 +53,7 @@ plugins=(git)
 
 # User configuration
 
-export PATH="/bin:/opt/spectrum_health/homeBin:/opt/spectrum_health/homeBin/ignore_dir:/bin:/opt/spectrum_health/homeBin:/opt/spectrum_health/homeBin/ignore_dir:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/go/bin:/opt/spectrum_health/homebin"
+export PATH="/bin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/go/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -67,9 +67,6 @@ source $ZSH/oh-my-zsh.sh
 # else
 #   export EDITOR='mvim'
 # fi
-
-export USER_NAME=dan90374
-source /opt/spectrum_health/profiles/phProfile
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
