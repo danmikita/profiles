@@ -1,0 +1,3 @@
+# Personal configs
+- ZSH
+- GIT
